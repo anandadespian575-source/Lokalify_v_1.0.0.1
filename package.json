@@ -6,17 +6,17 @@
         "dev": "vite"
     },
     "dependencies": {
-    "@supabase/supabase-js": "^2.116.0",
-    "axios": "^1.7.0",
-    "laravel-echo": "^2.5.0",
-    "leaflet": "^1.9.4",
-    "lucide-react": "^1.44.0",
-    "pusher-js": "^8.6.0",
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
-    "react-leaflet": "^5.0.0",
-    "react-router-dom": "^7.18.3"
-}
+        "@supabase/supabase-js": "^2.116.0",
+        "axios": "^1.7.0",
+        "laravel-echo": "^2.5.0",
+        "leaflet": "^1.9.4",
+        "lucide-react": "^1.44.0",
+        "pusher-js": "^8.6.0",
+        "react": "^19.3.0",
+        "react-dom": "^19.3.0",
+        "react-leaflet": "^5.0.0",
+        "react-router-dom": "^7.18.3"
+    },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
         "@vitejs/plugin-react": "^4.2.0",
