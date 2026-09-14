@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WisataController;
-use App\Http\Controllers\AiController; // Tambahkan import Controller AI kamu di sini
+use App\Http\Controllers\Controller; // Tambahkan import Controller AI kamu di sini
 
 /*
 |--------------------------------------------------------------------------
